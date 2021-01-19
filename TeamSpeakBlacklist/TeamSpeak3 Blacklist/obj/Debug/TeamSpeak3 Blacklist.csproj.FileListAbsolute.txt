@@ -1,0 +1,7 @@
+E:\Users\Oynasma\source\repos\TeamSpeakBlacklist\TeamSpeak3 Blacklist\bin\Debug\TeamSpeak3 Blacklist.exe.config
+E:\Users\Oynasma\source\repos\TeamSpeakBlacklist\TeamSpeak3 Blacklist\bin\Debug\TeamSpeak3 Blacklist.exe
+E:\Users\Oynasma\source\repos\TeamSpeakBlacklist\TeamSpeak3 Blacklist\bin\Debug\TeamSpeak3 Blacklist.pdb
+E:\Users\Oynasma\source\repos\TeamSpeakBlacklist\TeamSpeak3 Blacklist\obj\Debug\TeamSpeak3 Blacklist.csprojAssemblyReference.cache
+E:\Users\Oynasma\source\repos\TeamSpeakBlacklist\TeamSpeak3 Blacklist\obj\Debug\TeamSpeak3 Blacklist.csproj.CoreCompileInputs.cache
+E:\Users\Oynasma\source\repos\TeamSpeakBlacklist\TeamSpeak3 Blacklist\obj\Debug\TeamSpeak3 Blacklist.exe
+E:\Users\Oynasma\source\repos\TeamSpeakBlacklist\TeamSpeak3 Blacklist\obj\Debug\TeamSpeak3 Blacklist.pdb
